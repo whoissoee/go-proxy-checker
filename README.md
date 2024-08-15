@@ -1,9 +1,7 @@
-# go-proxy-checker
-Proxy checker
 
-<b>How to run</b>
-1. Create a file proxy.txt, 
-2. Add a proxy in the ip:port format to it
-3. Run this script like this: go run proxy-checker2.go
+<h2>How to run</h2>
+1. Create a file proxy.txt <br />
+2. Add a proxy in the ip:port format to it <br />
+3. Run this script like this: go run proxy-checker2.go <br />
 
 He check status code.
